@@ -1,0 +1,9 @@
+{
+	"require":{
+		"slim/slim": "2.4.2",
+		"php-activerecord/php-activerecord": "dev-master",
+		"pagseguro/php": "2.2.1",
+		"phpmailer/phpmailer": "v5.2.7",
+		"twitter/bootstrap": "v3.1.1"
+	}
+}
